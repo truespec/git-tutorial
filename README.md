@@ -1,2 +1,3 @@
 # git tutorial
--feature-A
+- feature-A
+- fix-B line
